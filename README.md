@@ -1,2 +1,2 @@
-# Review Scrapper with Heroku Deployment
+Review Scrapper with Heroku Deployment
 # Screenshot
